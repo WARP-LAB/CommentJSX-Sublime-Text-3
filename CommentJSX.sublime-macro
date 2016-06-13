@@ -1,0 +1,26 @@
+[
+    {
+      "command": "insert",
+      "args": {
+        "characters": "{/*  */}\n"
+      }
+    },
+    {
+      "command": "move", "args":  {
+        "by": "lines",
+        "forward": false
+      }
+    },
+    {
+      "command": "move", "args":  {
+        "by": "words",
+        "forward": true
+      }
+    },
+    {
+      "command": "move", "args":  {
+        "by": "words",
+        "forward": true
+      }
+    }
+]
